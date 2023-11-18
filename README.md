@@ -6,8 +6,10 @@
 
 + 参考模型：Fernández-Villaverde, J. and Valencia, D. Z., 2018, “A Practical Guide to Parallelization in Economics”.
 + 运行：执行文件夹下的Makefile
++ 计算速度![SOG](og_GPU.png)
 
 ## DCEGM
 
 + 参考模型：Iskhakov, F., Jørgensen, T. H., Rust, J. and Schjerning, B., 2017, “The Endogenous Grid Method for Discrete-Continuous Dynamic Choice Models with (or without) Taste Shocks”, Quantitative Economics, 8(2), pp.317~365.
 + 运行：执行文件夹下的Makefile
++ 计算速度![DC](dc_GPU.png)
